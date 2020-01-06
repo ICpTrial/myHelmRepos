@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Financial App developed by VendorA 
+name: MyFinanceApp
+version: 0.1.0
+icon: https://cdn.softbank.jp/mobile/set/data/service/otosan-app/img/shared/icon-m-dentaku.png

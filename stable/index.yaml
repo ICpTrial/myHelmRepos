@@ -3,7 +3,7 @@ entries:
   MyFinanceApp:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-06T17:14:32.990103+09:00"
+    created: "2020-01-06T17:24:57.138872+09:00"
     description: Financial App developed by VendorA
     digest: 724e887bcba8cfcd566d00d888e419a88ef9bbeafa44aae66ca4ff59e17e0987
     icon: https://cdn.softbank.jp/mobile/set/data/service/otosan-app/img/shared/icon-m-dentaku.png
@@ -11,4 +11,4 @@ entries:
     urls:
     - MyFinanceApp-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-06T17:14:32.986566+09:00"
+generated: "2020-01-06T17:24:57.138312+09:00"
